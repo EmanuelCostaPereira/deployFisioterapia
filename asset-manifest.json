@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/static/js/main.9cfa243a.js",
+    "static/js/453.c667dc28.chunk.js": "/static/js/453.c667dc28.chunk.js",
+    "static/media/auriculoterapia.webp": "/static/media/auriculoterapia.135145f48c843052d62d.webp",
+    "static/media/liberacao.webp": "/static/media/liberacao.22b0319b07e45b6dae9c.webp",
+    "static/media/liberacao1.webp": "/static/media/liberacao1.dd15bcfef0a3f6556e46.webp",
+    "static/media/ventosas.webp": "/static/media/ventosas.bab30e1b9578deb6c335.webp",
+    "static/media/acupuntura1.webp": "/static/media/acupuntura1.9cd9846ae928631bb3a2.webp",
+    "static/media/acupuntura.webp": "/static/media/acupuntura.e330023827cc0f35a5e9.webp",
+    "static/media/auriculoterapia1.webp": "/static/media/auriculoterapia1.42570c01deca3378973b.webp",
+    "static/media/logo1.png": "/static/media/logo1.7c196aabe784ed4892ec.png",
+    "index.html": "/index.html",
+    "main.9cfa243a.js.map": "/static/js/main.9cfa243a.js.map",
+    "453.c667dc28.chunk.js.map": "/static/js/453.c667dc28.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.9cfa243a.js"
+  ]
+}
